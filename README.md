@@ -8,3 +8,4 @@
 
 1) pip3 install -r requirements.txt
 2) python3 run.py
+3) In flaskblog/config.py file, do add your email id and password to send email verification link.
